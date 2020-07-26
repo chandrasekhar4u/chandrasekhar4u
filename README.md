@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Ideas and develop simple Apps.
 - 🤔 I’m looking for help with E-commerce & Stock Analyzer Apps.
 - 💬 Ask me about Java, Spring-boot, FB Messenger Bots,..
-- 📫 How to reach me: connect@kakarla.in
+- :e-mail: How to reach me: connect@kakarla.in
 - 😄 Pronouns:  Tech Savvy, Idea Finder..
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: :mortar_board: :computer: :money_with_wings:
 
